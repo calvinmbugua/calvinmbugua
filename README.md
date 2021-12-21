@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @calvinmbugua
+- 👀 I’m interested in C, C#, C++, Java, Python and many more
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate on Coding projects
+- 📫 How to reach me email-me@calvinmbuguam.ml
